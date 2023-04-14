@@ -1,0 +1,24 @@
+{
+    "sujet": [
+        "Le Président",
+        "Le Premier Ministre",
+        "Johnny Halliday",
+        "Elon Musk",
+        "Zinedine Zidane"
+
+    ],
+    "action": [
+      "a été accusé de détournement de fond",
+      "a été mis en examen pour abus d'influence",
+      "a participé à un évenement caritatif",
+      "a fait un don de 1.000.000 $ à la ligue des droits de l'homme",
+      "est décédé hier dans la nuit"
+    ],
+    "localisation": [
+      "dans la maison",
+      "dans le jardin",
+      "dans la rue",
+      "dans la forêt",
+      "au parc"
+    ]
+  }
